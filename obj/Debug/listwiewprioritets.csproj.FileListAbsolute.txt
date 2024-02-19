@@ -1,0 +1,10 @@
+C:\Users\student\source\repos\listwiewprioritets\bin\Debug\listwiewprioritets.exe.config
+C:\Users\student\source\repos\listwiewprioritets\bin\Debug\listwiewprioritets.exe
+C:\Users\student\source\repos\listwiewprioritets\bin\Debug\listwiewprioritets.pdb
+C:\Users\student\source\repos\listwiewprioritets\obj\Debug\listwiewprioritets.csprojAssemblyReference.cache
+C:\Users\student\source\repos\listwiewprioritets\obj\Debug\listwiewprioritets.Form1.resources
+C:\Users\student\source\repos\listwiewprioritets\obj\Debug\listwiewprioritets.Properties.Resources.resources
+C:\Users\student\source\repos\listwiewprioritets\obj\Debug\listwiewprioritets.csproj.GenerateResource.cache
+C:\Users\student\source\repos\listwiewprioritets\obj\Debug\listwiewprioritets.csproj.CoreCompileInputs.cache
+C:\Users\student\source\repos\listwiewprioritets\obj\Debug\listwiewprioritets.exe
+C:\Users\student\source\repos\listwiewprioritets\obj\Debug\listwiewprioritets.pdb
